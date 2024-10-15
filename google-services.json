@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412317558125",
+    "project_id": "caregiver-test-4189d",
+    "storage_bucket": "caregiver-test-4189d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412317558125:android:57c62a276fad9473d8e664",
+        "android_client_info": {
+          "package_name": "com.incapsulate.ltcprovider.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiGzaSExDtZTQRWQXOAIO9YCF3Xm2CaAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
